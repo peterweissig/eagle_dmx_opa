@@ -1,2 +1,2 @@
 # eagle_dmx_opa
-DMX control unit, bsed on atmel 32-bit controller
+DMX control unit, based on atmel 32-bit controller
